@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0425/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大聖妙吉祥菩薩最勝威德祕密八字陀羅尼修行念誦儀軌次第法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0181.xml
+    old_id: X02n0181
+hash: sha256:ede47fb3f332d20e55efdb132993349a39c8a83626119a94462e22d5b644a1c7

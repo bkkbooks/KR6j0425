@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0425/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0425/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大聖妙吉祥菩薩最勝威德祕密八字陀羅尼修行念誦儀軌次第法
+  identifiers:
+    krp: KR6j0425
+    cbeta: X02n0181
+    cbeta_old_id: X02n0181
+    authorityid: CA0002242
+    json_key: X0181
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0181.xml
+    old_id: X02n0181
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0425_000-X.yaml, hash: 'sha256:ede47fb3f332d20e55efdb132993349a39c8a83626119a94462e22d5b644a1c7'}
+  - {seq: 1, filename: KR6j0425_001-X.yaml, hash: 'sha256:d2f6916f5644c66309a8c3a8089e340fd31267323d66cc779fc7897a937b5828'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0425_000-X.markers.yaml, hash: 'sha256:de1cb505bca284e14c0b95d98363f32b00373b26bfd938e32024fc637c34b9a3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0425_001-X.markers.yaml, hash: 'sha256:e11a440d729ad1beff6235ee2bafb8cf189acb931541dcc9a07fb7155ed389f4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0425_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3622
+  label: '大聖妙吉祥菩薩最勝威德祕密八
+
+    字陀羅尼修行念誦儀軌次第法'
+  type: juan
+  level: 1
+hash: sha256:731255af18781e451e23bcaa05fbb3a9f60e9efe0232c03606e14f0d397c8b57
