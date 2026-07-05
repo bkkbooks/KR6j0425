@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0425_000.yaml, hash: 'sha256:ede47fb3f332d20e55efdb132993349a39c8a83626119a94462e22d5b644a1c7'}
-  - {seq: 1, filename: KR6j0425_001.yaml, hash: 'sha256:51d9653852ed064217d20b1ef1ec2a122e99ec88413fd00444acc40ad93e6c74'}
+  - {seq: 1, filename: KR6j0425_001.yaml, hash: 'sha256:d2f6916f5644c66309a8c3a8089e340fd31267323d66cc779fc7897a937b5828'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0425_001.markers.yaml, hash: 'sha256:6c865f5154c9e18a880b6b851931e800c24f54cce445b81048e814a1382ba0a4'}
+  - {seq: 0, role: markers, filename: assets/KR6j0425_000.markers.yaml, hash: 'sha256:49d591c0264ab468d619f22cb61948fcd7be8c06903d97120bed836c2f99411b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0425_001.markers.yaml, hash: 'sha256:baa65dd0db0aeecaba13c6caa92779baa24843b7b174aa8fc1a0aabec365d0c1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -38,7 +39,4 @@ table_of_contents:
     字陀羅尼修行念誦儀軌次第法'
   type: juan
   level: 1
-hash: sha256:e13f31c009919b9a1e50f6ebade37556c352880739d6cd86dbfdc8b157d0c6cd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:942fe10105751aad8744ab88649a122011face515e97ca1a9aef73c5cfd52e1c
