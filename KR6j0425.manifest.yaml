@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0425/v1
 canonical_location: https://kanripo.org/bkk/KR6j0425/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大聖妙吉祥菩薩最勝威德祕密八字陀羅尼修行念誦儀軌次第法
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0425_000.yaml, hash: 'sha256:ede47fb3f332d20e55efdb132993349a39c8a83626119a94462e22d5b644a1c7'}
-  - {seq: 1, filename: KR6j0425_001.yaml, hash: 'sha256:d2f6916f5644c66309a8c3a8089e340fd31267323d66cc779fc7897a937b5828'}
+  - {seq: 1, filename: KR6j0425_001.yaml, hash: 'sha256:524d5d3996250e4ab551a5292c48f9e2b35f2ed89673230252c9fafa9f396d34'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0425_000.markers.yaml, hash: 'sha256:49d591c0264ab468d619f22cb61948fcd7be8c06903d97120bed836c2f99411b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0425_001.markers.yaml, hash: 'sha256:baa65dd0db0aeecaba13c6caa92779baa24843b7b174aa8fc1a0aabec365d0c1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0425_001.markers.yaml, hash: 'sha256:7f8d92aa79fa97e789e98341f87ef2f515ae18a6ba40f3fb49ff087cc169ad30'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,4 +39,7 @@ table_of_contents:
     字陀羅尼修行念誦儀軌次第法'
   type: juan
   level: 1
-hash: sha256:942fe10105751aad8744ab88649a122011face515e97ca1a9aef73c5cfd52e1c
+hash: sha256:14810ae47994e2c1b3389e17937420423943ae34d0b531e84538b1880d3efeb1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
